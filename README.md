@@ -21,21 +21,22 @@ I build cross-platform mobile applications for iOS and Android using Flutter & D
 
 ---
 
-## 📱 Live Apps on Google Play
+## 📱 Live Apps on Google Play & App Store
 
 > All production apps built at Beetleware as part of a full cross-functional team (mobile, backend, DevOps, QA, UI/UX, product).
 
-### 🎓 Kidsware — E-Learning Platform for Children
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.beetleware.kidsware)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/kidsware/id6758140751)
+### 🔨 Soumtech — Licensed Online Auction Platform (Saudi Arabia)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.beetleware.soumtech)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D8%B3%D9%88%D9%85%D8%AA%D9%83/id6446899870)
 
-An e-learning platform where parents create accounts, add their children, and subscribe to live online courses. Features include live session attendance, performance tracking, schedule management, placement tests, and a community feed — all built with Flutter & Firebase.
+A premier online auctioning platform licensed by the Entrustment and Liquidation Center in Saudi Arabia. Built with Flutter for iOS & Android, featuring real-time bidding, NAFATH national identity login, SADAD wallet recharge, and live auction notifications.
 
 **Key features built:**
-- Parent/child multi-account management
-- Live session scheduling & access
-- Progress tracking dashboards
-- Level assessment & skill placement
+- Real-time auction bidding with live countdowns
+- NAFATH (Saudi national identity) authentication + OTP security
+- Wallet management — SADAD recharge & withdrawal requests
+- Live push notifications for new auctions & bid updates
+- Favorites, bid history & transaction tracking
 
 ---
 
@@ -50,6 +51,20 @@ An app for memorizing and reciting the Holy Quran, guided by certified instructo
 - Multi-recitation support (10 major recitations)
 - Session scheduling & booking
 - Ramadan competition feature
+
+---
+
+### 🎓 Kidsware — E-Learning Platform for Children
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.beetleware.kidsware)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/kidsware/id6758140751)
+
+An e-learning platform where parents create accounts, add their children, and subscribe to live online courses. Features include live session attendance, performance tracking, schedule management, placement tests, and a community feed — all built with Flutter & Firebase.
+
+**Key features built:**
+- Parent/child multi-account management
+- Live session scheduling & access
+- Progress tracking dashboards
+- Level assessment & skill placement
 
 ---
 
