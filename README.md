@@ -27,6 +27,7 @@ I build cross-platform mobile applications for iOS and Android using Flutter & D
 
 ### 🎓 Kidsware — E-Learning Platform for Children
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.beetleware.kidsware)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/kidsware/id6758140751)
 
 An e-learning platform where parents create accounts, add their children, and subscribe to live online courses. Features include live session attendance, performance tracking, schedule management, placement tests, and a community feed — all built with Flutter & Firebase.
 
@@ -40,6 +41,7 @@ An e-learning platform where parents create accounts, add their children, and su
 
 ### 📖 Khair Oma (خير أمة) — Quran Memorization App
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.beetleware.khair_oma)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D8%AE%D9%8A%D9%80%D8%B1-%D8%A3%D9%85%D9%80%D8%A9/id6478954684)
 
 An app for memorizing and reciting the Holy Quran, guided by certified instructors across the ten major recitations. **4.8 ⭐ rating · 1,000+ downloads.**
 
