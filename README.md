@@ -29,7 +29,7 @@ I build cross-platform mobile applications for iOS and Android using Flutter & D
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.beetleware.soumtech)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D8%B3%D9%88%D9%85%D8%AA%D9%83/id6446899870)
 
-A premier online auctioning platform licensed by the Entrustment and Liquidation Center in Saudi Arabia. Built with Flutter for iOS & Android, featuring real-time bidding, NAFATH national identity login, SADAD wallet recharge, and live auction notifications.
+A premier online auctioning platform licensed by the Entrustment and Liquidation Center in Saudi Arabia. Built with Flutter for iOS & Android. **5,000+ downloads · live in Saudi Arabia.**  Features real-time bidding, NAFATH national identity login, SADAD wallet recharge, and live auction notifications.
 
 **Key features built:**
 - Real-time auction bidding with live countdowns
